@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/ruilisi/react-chessground",
   "dependencies": {
-    "chessground": "^7.6.12"
+    "chessground": "https://github.com/jlambert23/chessground.git"
   },
   "peerDependencies": {
     "prop-types": "^15.7.2",
